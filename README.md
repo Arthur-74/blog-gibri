@@ -1,0 +1,2 @@
+# blog-gibri
+arquivos estaticos
